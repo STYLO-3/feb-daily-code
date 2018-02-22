@@ -1,0 +1,40 @@
+#include <iostream>
+using namespace std;
+double a; 
+double b;
+int Area(int x, int y) {
+	return x*y;
+
+}
+
+int main() {
+	int a;
+	int b;
+	cout << "please provide a value for length";
+	cin >> a; 
+	cout << "please provide";
+	cin >> b;
+	cout << "the area of the triangle is";
+	system("pause");
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+
